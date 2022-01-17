@@ -1,0 +1,5 @@
+_target_: src.models.superres_model.SuperResLitModel
+
+lr: 1e-4
+weight_decay: 0.0005
+loss_name: 'L1'
